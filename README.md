@@ -1,0 +1,2 @@
+# tutorial_python_sqlite
+python標準ライブラリであるsqliteを扱ってみるライブラリです．
